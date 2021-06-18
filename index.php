@@ -10,9 +10,7 @@ echo "Testing on Heroku";
 ?>
 <div>
 
-<p> Below is the Image of E-commerce Product</p>
-
-<h1> NEw Content </h1>
+<p> Working on Amazon Branch</p>
 
 </div>
 </head>
