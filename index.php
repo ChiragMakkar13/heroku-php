@@ -9,10 +9,8 @@ echo "What we are learning today";
 echo "Hello Echo"
 ?>
 <div>
-
-<p> Below is the Image of E-commerce Product</p>
-
-<h1> NEw Content </h1>
+<p> This is my CICD Piet Branch</p>
+<h1>Testing</h1>
 
 </div>
 </head>
